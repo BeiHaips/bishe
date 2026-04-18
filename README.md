@@ -1,10 +1,5 @@
 # 基于SpringBoot的酒店信息管理系统的设计与实现
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-
 **本科毕业设计**  
 **作者**：
 **指导老师**：  
@@ -96,7 +91,7 @@ frontend/ → Vue前端代码
 docs/ → 数据库脚本、设计文档等
 
 
-八、毕业设计亮点（适合答辩）
+八、毕业设计亮点
 
 前后端分离 + SpringBoot 主流技术栈
 实时房态管理，避免超订
@@ -104,14 +99,3 @@ docs/ → 数据库脚本、设计文档等
 权限严格区分（用户 vs 管理员）
 界面简洁友好，操作性强
 实用性高，直接解决酒店实际痛点
-
-
-论文：基于SpringBoot的酒店信息管理系统的设计与实现.pdf
-答辩PPT：基于SpringBoot的酒店信息管理系统的设计与实现.pptx
-
-⭐ 如果你觉得这个项目不错，欢迎 Star 支持！
-text**复制方法**：  
-直接选中上面整个代码块（从第一行 `# 基于SpringBoot...` 到最后一行），按 `Ctrl + C` 复制，然后粘贴到你新建的 `README.md` 文件里保存即可。
-
-保存好后，回到 GitHub Desktop 进行 **Commit + Push** 就行了！  
-推送完告诉我结果，我继续帮你下一步～
