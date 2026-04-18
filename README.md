@@ -5,9 +5,9 @@
 ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
 
-**广东培正学院本科毕业设计**  
-**作者**：彭省  
-**指导老师**：张可姗 助教  
+**本科毕业设计**  
+**作者**：
+**指导老师**：  
 **完成日期**：2026年3月
 
 ---
